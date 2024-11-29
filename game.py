@@ -1,4 +1,7 @@
 import pygame
+from core.events.event_handler import EventHandler
+from core.game_controller import GameController
+from gui.screen_manager import ScreenManager
 
 class Game():
 
